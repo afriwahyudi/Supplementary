@@ -6,7 +6,7 @@ Supplementary materials for amine-CO2 neural network model, and few other code t
 3. Make sure to use appropriate model for each .ipnyb notebook for analysis
 4. '/Model_logs' folder consist of training history of each model
 
-Although random seed was set, the results might still be different to what we got due to different hardware configuration
+Although random seed was set, the results might still be different to what we got due to different hardware configuration. The difference mostly dismissable.
 
 This code were written and run on :
 1. Asus ROG GL553VD
