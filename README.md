@@ -4,6 +4,7 @@ Supplementary materials for amine-CO2 neural network model, and few other code t
 1. Choose the model from '/Model' folder
 2. Use the dataset in '/datasetscsv' folder
 3. Make sure to use appropriate model for each .ipnyb notebook for analysis
+4. '/Model_logs' folder consist of training history of each model
 
 Although random seed was set, the results might still be different to what we got due to different hardware configuration
 
