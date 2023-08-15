@@ -5,7 +5,7 @@ Supplementary materials for amine-CO2 neural network model, and few other code t
 2. Use the dataset in '/datasetscsv' folder
 3. Make sure to use appropriate model for each .ipnyb notebook for analysis
 4. '/Model_logs' folder consist of training history of each model
-
+5. For all surface plot and equilibrium plot, visit this drive : https://drive.google.com/drive/folders/1PpKN_PX7bAEQIWY94DXI9Ok-HN-lVSaR?usp=sharing
 Although random seed was set, the results might still be different to what we got due to different hardware configuration. The difference mostly dismissable.
 
 This code were written and run on :
