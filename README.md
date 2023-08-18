@@ -15,14 +15,13 @@ This code were written and run on :
 6. Written in Microsoft VSCode
 
 -----------------------------------------------------------------------------------
-To use this notebook, 
+To use 'Notebook_for_LocalMachine', 
 1. Download 'Notebook_for_LocalMachine' to your local machine
 2. We recommend to use IDE such as Microsoft VSCode to run this
 
 -----------------------------------------------------------------------------------
-For the notebook in 'Notebook_colabs' folder
-can be used in googlecolabs right away.
-Just import this notebook in colabs then run
+To use 'Notebook_colabs',
+It can be used in googlecolabs right away by importing this notebook in colabs then run
 
 -----------------------------------------------------------------------------------
 Notebook usage step:
