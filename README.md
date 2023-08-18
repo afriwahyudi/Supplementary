@@ -17,6 +17,11 @@ This code were written and run on :
 3. NVIDIA 1050Ti
 4. Intel(R) Core (TM) i7-7700HQ CPU @ 2808Mhz 4 Cores
 5. 8 Logical Processors
+6. Written in Microsoft VSCode
+
+To use this notebook, 
+1. Download 'Notebook_for_LocalMachine' to your local machine
+2. We recommend to use IDE such as Microsoft VSCode to run this
 
 For the notebook in 'Notebook_colabs' folder
 can be used in googlecolabs
