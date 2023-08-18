@@ -9,6 +9,8 @@ Supplementary materials for amine-CO2 neural network model, and few other code t
 
 Although random seed was set, the results might still be different to what we got due to different hardware configuration. The difference mostly dismissable.
 
+
+For the notebook in 'Notebook_for_LocalMachine' folder
 This code were written and run on :
 1. Asus ROG GL553VD
 2. 16 GB RAM
@@ -16,4 +18,5 @@ This code were written and run on :
 4. Intel(R) Core (TM) i7-7700HQ CPU @ 2808Mhz 4 Cores
 5. 8 Logical Processors
 
-
+For the notebook in 'Notebook_colabs' folder
+can be used in googlecolabs
