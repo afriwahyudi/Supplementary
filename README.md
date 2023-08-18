@@ -24,4 +24,5 @@ To use this notebook,
 2. We recommend to use IDE such as Microsoft VSCode to run this
 
 For the notebook in 'Notebook_colabs' folder
-can be used in googlecolabs
+can be used in googlecolabs right away.
+Just import this notebook in colabs then run
